@@ -1,0 +1,54 @@
+body {
+    font-family: arial;
+    font-weight: bold;
+    background-color: #0D0D0D;
+    background-image: url(./assets/images/cartographer2.png);
+    overflow-x:hidden;
+}
+
+#header {
+    font-weight:bolder;
+    font-size: 100px;
+    line-height:60%;
+    letter-spacing:-5px;
+}
+#header2 {
+    font-size: 50px;
+    font-weight:bolder;
+}
+#droxhead {
+    background-image: url(./assets/images/droxbox-bg.png);
+    background-size: cover;
+}
+
+h1 {
+    font-weight:bolder;
+}
+
+h2 {
+    font-weight:bolder;
+}
+
+h3 {
+    font-weight:bold;
+}
+div.bg-dark {
+    background-color: #0d0d0d5d !important;   
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(0, 0, 0);
+    border-radius: 10px;
+    background: #0f0f0f;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #222222;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px rgb(0, 0, 0);
+
+  }
+
